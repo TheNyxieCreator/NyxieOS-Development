@@ -1,4 +1,4 @@
-Versão: Project NyxieOS 0.1 (Alfa Inicial - Amethyst) Codename "Blue"
+Versão: Project NyxieOS 0.3 (Alfa Inicial - "Blue Step") Codename "Amethyst"
 Criador: Adryan Jhonatan - TheNyxieCreator
 [Conteúdo]
 ->
