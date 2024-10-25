@@ -1,0 +1,12 @@
+Versão: Project NyxieOS 0.1 (Alfa Inicial - Amethyst) Codename "Blue"
+Criador: Adryan Jhonatan - TheNyxieCreator
+[Conteúdo]
+->
+->
+->
+->
+->
+->
+
+REMINDERS--
+-docker run --rm -it -v %cd%:/root/env nyxieos-buildenv
