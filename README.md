@@ -1,4 +1,4 @@
-**Project Nyxie OS Beta Post-Early Development 0.03**
+**Project Nyxie OS Beta Post-Early Development**
 >**Codename: Amethyst**
 >
 >*Created by* : TheNyxieCreator (Adryan Jhonatan)
